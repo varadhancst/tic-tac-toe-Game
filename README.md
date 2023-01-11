@@ -1,1 +1,2 @@
 # tic-tac-toe-Game
+I developed a Tic Tac Toe game using Python. The program allows two players to play the game on the command line, with one player using 'X' and the other using 'O'. The game includes a simple AI opponent that uses a random move generator. The program also includes error handling for invalid input and a feature to reset the game board. This project demonstrates my ability to design and implement a simple command-line application using Python
